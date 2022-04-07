@@ -1,0 +1,10 @@
+{
+    "data_location": "data",
+    "java_location": "java",
+    "logs_location": "logs",
+    "update_indexes": false,
+    "user_agent": {
+        "agent": "mcdownloader",
+        "author": "Sneed"
+    }
+}

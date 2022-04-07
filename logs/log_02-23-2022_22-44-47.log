@@ -1,0 +1,108 @@
+[Sneed] 02/23/2022 22:44:47: #----------------------------------#
+[Sneed] 02/23/2022 22:44:47: #---- Welcome to MCDownloader! ----#
+[Sneed] 02/23/2022 22:44:47: #----------------------------------#
+[Info] 02/23/2022 22:44:53: data\minecraft/version_indexes\1.18.1.json already downloaded
+[Info] 02/23/2022 22:44:53: Downloading data\libs/libraries\com/mojang/blocklist/1.0.6/blocklist-1.0.6.jar
+[Info] 02/23/2022 22:44:53: Downloading data\libs/libraries\com/mojang/patchy/2.1.6/patchy-2.1.6.jar
+[Info] 02/23/2022 22:44:53: Downloading data\libs/libraries\com/github/oshi/oshi-core/5.8.2/oshi-core-5.8.2.jar
+[Info] 02/23/2022 22:44:53: Downloading data\libs/libraries\net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+[Info] 02/23/2022 22:44:53: Downloading data\libs/libraries\net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar
+[Info] 02/23/2022 22:44:54: Downloading data\libs/libraries\org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar
+[Info] 02/23/2022 22:44:54: Downloading data\libs/libraries\org/apache/logging/log4j/log4j-slf4j18-impl/2.14.1/log4j-slf4j18-impl-2.14.1.jar
+[Info] 02/23/2022 22:44:54: Downloading data\libs/libraries\com/ibm/icu/icu4j/69.1/icu4j-69.1.jar
+[Info] 02/23/2022 22:44:57: Downloading data\libs/libraries\com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar
+[Info] 02/23/2022 22:44:57: Downloading data\libs/libraries\net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+[Info] 02/23/2022 22:44:57: Downloading data\libs/libraries\io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar
+[Info] 02/23/2022 22:44:58: Downloading data\libs/libraries\com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[Info] 02/23/2022 22:44:58: Downloading data\libs/libraries\com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[Info] 02/23/2022 22:44:58: Downloading data\libs/libraries\org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[Info] 02/23/2022 22:44:58: Downloading data\libs/libraries\commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\commons-codec/commons-codec/1.15/commons-codec-1.15.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\com/google/code/gson/gson/2.8.8/gson-2.8.8.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\com/mojang/authlib/3.2.38/authlib-3.2.38.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+[Info] 02/23/2022 22:44:59: Downloading data\libs/libraries\commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+[Info] 02/23/2022 22:45:00: Downloading data\libs/libraries\org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+[Info] 02/23/2022 22:45:00: Downloading data\libs/libraries\it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+[Info] 02/23/2022 22:45:05: Downloading data\libs/libraries\org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar
+[Info] 02/23/2022 22:45:05: Downloading data\libs/libraries\org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar
+[Info] 02/23/2022 22:45:06: Downloading data\libs/libraries\org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/libraries\org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/libraries\org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/libraries\org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/libraries\org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/libraries\org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/libraries\org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar
+[Info] 02/23/2022 22:45:07: data\libs/libraries\org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:07: data\libs/libraries\org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:07: data\libs/libraries\org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:07: Downloading data\libs/native\org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:08: data\libs/libraries\org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:08: data\libs/libraries\org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:08: Downloading data\libs/native\org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:09: data\libs/libraries\org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:09: data\libs/libraries\org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:09: data\libs/libraries\org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:09: Downloading data\libs/native\org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:10: data\libs/libraries\org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:10: data\libs/libraries\org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:10: Downloading data\libs/native\org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:11: data\libs/libraries\org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:11: data\libs/libraries\org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:11: data\libs/libraries\org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar already downloaded
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-linux.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-windows.jar
+[Info] 02/23/2022 22:45:11: data\libs/libraries\org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar already downloaded
+[Info] 02/23/2022 22:45:11: Downloading data\libs/native\org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-linux.jar
+[Info] 02/23/2022 22:45:12: Downloading data\libs/native\org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-macos.jar
+[Info] 02/23/2022 22:45:12: Downloading data\libs/native\org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar
+[Info] 02/23/2022 22:45:12: Downloading data\libs/libraries\com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar
+[Info] 02/23/2022 22:45:12: data\libs/libraries\com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar already downloaded
+[Info] 02/23/2022 22:45:12: Downloading data\libs/native\com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-linux.jar
+[Info] 02/23/2022 22:45:12: Downloading data\libs/native\com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar
+[Info] 02/23/2022 22:45:12: Downloading data\libs/libraries\ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar
+[Info] 02/23/2022 22:45:12: Downloading data\libs/native\ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar
+[Info] 02/23/2022 22:45:12: data\libs/libraries\ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar already downloaded
